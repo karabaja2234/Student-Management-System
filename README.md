@@ -10,7 +10,7 @@ Services which this system provides:
 - Exam implementation for students
 - Many more useful functionalities regarding data management, which can be noticed while using the system.
 
-NOTE: To access the administrator menu, for the login information use:
+NOTE: To access the administrator menu, use:
 username: selman
 password: admin
 **********************************************************************************************************
